@@ -194,13 +194,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestGame">
+  <component name="RunManager" selected="JUnit.TestGame (1)">
     <configuration name="TestFrame.testAddOneThrow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WSP03" />
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.TestFrame" />
       <option name="METHOD_NAME" value="testAddOneThrow" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGame (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WSP03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGame" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -227,9 +235,11 @@
       <item itemvalue="JUnit.TestFrame.testAddOneThrow" />
       <item itemvalue="JUnit.TestGame.testTwoThrowsNoMark" />
       <item itemvalue="JUnit.TestGame" />
+      <item itemvalue="JUnit.TestGame (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestGame (1)" />
         <item itemvalue="JUnit.TestGame" />
         <item itemvalue="JUnit.TestGame.testTwoThrowsNoMark" />
         <item itemvalue="JUnit.TestFrame.testAddOneThrow" />
