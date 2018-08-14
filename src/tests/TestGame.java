@@ -1,3 +1,5 @@
+package tests;
+
 import game.Game;
 import junit.framework.TestCase;
 
