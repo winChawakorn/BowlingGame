@@ -1,4 +1,4 @@
-##WSP03 Bowling Game
+## WSP assignment3: Bowling Game
 
 Group member:
 Chawakorn Suphepre
