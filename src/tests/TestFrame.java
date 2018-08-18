@@ -1,5 +1,3 @@
-package tests;
-
 import game.Frame;
 import junit.framework.*;
 
